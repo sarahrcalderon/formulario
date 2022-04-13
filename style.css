@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+input {
+  font-size: 1rem;
+  padding: 10px;
+  background: rgb(210, 210, 210);
+}
+
+button {
+  font-size: 1rem;
+  padding: 10px 10px;
+  background: red;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
